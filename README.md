@@ -50,5 +50,18 @@ Os resultados deste projeto incluem:
 - **Comparação de Qualidade entre Algoritmos**: Métricas como Silhouette Score, Davies-Bouldin Index e Calinski-Harabasz Index ajudam a avaliar a eficácia de cada algoritmo, permitindo a escolha do método de clustering mais adequado.
 - **Visualização e Interpretação dos Clusters**: Gráficos gerados com Seaborn e Matplotlib oferecem uma análise visual dos clusters, destacando diferentes perfis de clientes, que podem ser utilizados para campanhas de marketing direcionadas e personalizadas.
 
-## Contato
-Se você tiver dúvidas ou sugestões, entre em contato por [vitttormuniz@gmail.com](mailto:vitttormuniz@gmail.com).
+## 👨‍💻 Autor
+
+**Vitor Hugo Muniz de Sousa Santos**
+
+💼 Engenheiro de Computação | Cientista de Dados
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**
