@@ -1,5 +1,3 @@
-# Projeto de Clustering em Dados de Vendas
-
 ## Descrição do Projeto
 
 Este projeto aplica diferentes **algoritmos de clustering** a um conjunto de dados de vendas para agrupar clientes com base em seus comportamentos de compra. O objetivo é identificar padrões, perfis e comportamentos de clientes, fornecendo insights que possam direcionar estratégias de marketing e melhorar a personalização dos serviços oferecidos.
